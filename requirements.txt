@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+databases
+pyodbc
+alembic
+sqlalchemy[asyncio]
+asyncpg 
+aioodbc 
+pydantic-settings

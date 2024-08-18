@@ -1,0 +1,1 @@
+# Application configuration (e.g., settings, environment variables)
