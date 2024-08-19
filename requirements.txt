@@ -8,3 +8,8 @@ sqlalchemy[asyncio]
 asyncpg 
 aioodbc 
 pydantic-settings
+pyjwt
+python-jose
+pydantic
+python-multipart
+bcrypt
